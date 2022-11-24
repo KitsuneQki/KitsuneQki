@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **self projects**
+- 🔭 I’m currently working on self projects
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning Next.js
 
-- 👯 I’m looking to collaborate on **any project where i can make my skills shine**
+- 👯 I’m looking to collaborate on any project where i can make my skills shine
 
-- 🤝 I’m looking for help with **landing a new work experience**
+- 🤝 I’m looking for help landing a new work experience
 
 - 📫 How to reach me **kevinzerpa5@gmail.com**
 
