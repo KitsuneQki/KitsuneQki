@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **self projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **any project**
+- 👯 I’m looking to collaborate on **any project where i can make my skills shine**
 
-- 🤝 I’m looking for help with **getting by first job**
+- 🤝 I’m looking for help with **landing a new work experience**
 
 - 📫 How to reach me **kevinzerpa5@gmail.com**
 
