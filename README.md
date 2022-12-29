@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Zerpa</h1>
-<h3 align="center">A frontend developer from Venezuela actually living in Colombia</h3>
+<h3 align="center">A frontend developer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitsuneqki&label=Profile%20views&color=0e75b6&style=flat" alt="kitsuneqki" /> </p>
 
