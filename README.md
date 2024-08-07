@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on freelance projects<br>👯 I’m looking to collaborate on new exciting projects<br>🤝 I’m looking for help with getting a new job opportunity <br>🌱 I’m currently learning next.js<br>💬 Ask me about anything, if I don't know about it, I'll search for an answer<br>⚡ Fun fact I really enjoy eating, training, and coding 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kevinzerpa/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/qki) 
 
